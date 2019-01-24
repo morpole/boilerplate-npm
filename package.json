@@ -1,5 +1,5 @@
 {
-  "author": "morpole",
+  "author": "graham morrison",
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
     "express": "^4.14.0"
